@@ -1,0 +1,7 @@
+[book]
+authors = ["Profesor Maximiliano Chaves"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Programacion I"
+description = "Apunte acompañamiento de el espacio curricular Programacion I."
