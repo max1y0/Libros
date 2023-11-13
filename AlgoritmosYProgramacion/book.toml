@@ -1,0 +1,7 @@
+[book]
+authors = ["Profesor Maximiliano Chaves"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Algoritmos y Programación"
+description = "Apunte acompañamiento de el espacio curricular Algoritmos y Programación."
