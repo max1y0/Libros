@@ -17,3 +17,7 @@
     - [Ciclos for](./ciclos/for.md)
     - [Ciclos while](./ciclos/while.md)
 - [Errores](./errores/intro.md)
+    - [Error de sintaxis](./errores/sintaxis.md)
+    - [Error de indentación](./errores/indentacion.md)
+    - [Error de nombre](./errores/nombre.md)
+    - [Error de tipo](./errores/tipo.md)

@@ -11,7 +11,7 @@ Cada vez que queramos plantear realizar algún algoritmo para resolver algún pr
 ### ¿Qué queremos hacer?
 Esta pregunta apunta a que nos enfoquemos en el objetivo del algoritmo. 
 
-#### ¿Cómo lo vamos a hacer?
+### ¿Cómo lo vamos a hacer?
 Una vez que tenemos bien definido el objetivo de nuestro programa, nos podemos poner a pensar que técnicas algorítmicas, vamos a usar para empezar a programarlo.
 
 Centralizarse en estas preguntas nos van a ayudar a no perder el enfoque y tener un buen diseño base para empezar a programar cualquier problema que se nos presente. Dicho esto veamos algunos ejemplos...

@@ -38,5 +38,4 @@ END.
 En cambio, gracias a que programar en python es más sencillo. El “hola mundo” en este lenguaje es programado así:
 ```python
 print ("hola mundo")
-
 ```

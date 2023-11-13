@@ -1,12 +1,12 @@
 # Condicionales If
-Ejemplo:
+## Ejemplo:
 ```py
 if (nota<7):
     print ("estas desaprobado")
 else:
     print ("estas aprobado")
 ```
-Analicemos parte por parte:
+### Analicemos parte por parte:
 
 ```py
 (nota<7):
