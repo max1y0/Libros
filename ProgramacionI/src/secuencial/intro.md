@@ -1,0 +1,2 @@
+# Programación secuencial y Python
+El lenguaje de programación que vamos a aprender es Python. La característica de este lenguaje es que es muy fácil de aprender y bastante usado en la actualidad. Además es una muy buena base para partir a otros lenguajes de programación.
