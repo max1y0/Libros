@@ -8,6 +8,7 @@
     - [Hola a vos](./secuencial/hola_a_vos.md)
     - [Repaso de variables](./secuencial/repaso.md)
     - [Resumen de Instrucciones](./secuencial/instrucciones.md)
+    - [Ejemplo](./secuencial/ejemplo.md)
 - [Condicionales](./condicionales/intro.md)
     - [Condicionales If](./condicionales/if.md)
     - [Condicionales If Anidados](./condicionales/if_anidado.md)

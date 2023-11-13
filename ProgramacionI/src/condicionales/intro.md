@@ -1,1 +1,2 @@
 # Condicionales
+Un concepto que aprendieron el año pasado es el de condicionales. Usados cuando necesitábamos que nuestro algoritmo ejecute instrucciones dependiendo de ciertas condiciones que les aplicamos a nuestros datos.
