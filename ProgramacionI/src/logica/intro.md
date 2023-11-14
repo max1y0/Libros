@@ -1,5 +1,7 @@
 # Lógica
-Las condiciones lógicas son parecidas a las fórmulas matemáticas, pero en vez de sumar o restar, hacemos disyunciones y conjunciones, y en vez de tener números, tenemos valores de verdad, verdadero o falso
+Las condiciones lógicas son parecidas a las fórmulas matemáticas, pero en vez de sumar o restar, hacemos disyunciones y conjunciones, y en vez de tener números, tenemos valores de verdad, verdadero o falso.
+
+La lógica es una disciplina que sirve para detectar el valor de verdad en frases cotidianas.
 
 ## Comparemos
 
