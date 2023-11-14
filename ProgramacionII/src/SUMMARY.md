@@ -26,10 +26,10 @@
 - [Tipos Abstractos de datos](./TAD/intro.md)
 - [Tipo abtracto de dato Cola](./TAD/cola.md)
   - [Operaciones](./TAD/cola_operaciones.md)
-  - [Colas en Python](./TAD/cola_python.md)
-- [Tipo abtracto de dato Pila]()
-  - [Operaciones]()
-  - [Pilas en Python]()
+  <!-- - [Colas en Python](./TAD/cola_python.md) eliminado porque decidi implementarlas en clase--> 
+- [Tipo abtracto de dato Pila](./TAD/pila.md)
+  - [Operaciones](./TAD/pila_python.md)
+  <!-- - [Pilas en Python](./TAD/pila_operaciones.md) eliminado porque decidi implementarlas en clase-->
 
 # Cuatro pilares de la Programación Orientada a Objetos
 - [Abstraccion](./pilares/abstraccion.md)
