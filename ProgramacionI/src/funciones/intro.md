@@ -1,6 +1,8 @@
 # Funciones
 Las funciones son estructuras de código que permiten **modularizar** nuestro código. Es decir, se subdivide un problema en varios subproblemas, y cada subproblema se encararía mediante una función.
 <!-- TODO: agregar las imagenes de ayp(la presentacion de apuntes) y funciones -->
+Las funciones pueden pensarse de forma coloquial como un "coso" que recibe información, la computa, y retorna un sólo resultado.
+<!-- TODO: agregar imagen del coso funcion -->
 El uso de una función consta de dos partes: La **definición** y la **invocación**.
 
 <!-- TODO: completar -->
