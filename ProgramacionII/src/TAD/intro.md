@@ -1,5 +1,5 @@
 # Tipos Abstractos de datos
-Entonces, son tipos compuestos (pueden tener varios valores) y tienen sus propias operaciones (los métodos que la clase tenga). Los más comunes, son los TAD pila, cola y listas, especializados en tratar secuencias. En este caso no vamos a programar nosotros estos TADs, vamos a usar los que ya vienen programados en python.
+Los tipos abstractos de datos son tipos compuestos (pueden tener más de un valor) y tienen sus propias operaciones (los métodos que la clase tenga). Los más comunes, son los TAD pila, cola, especializados en tratar secuencias. 
 
 * TAD cola
     * Valores: Secuencias de elementos
@@ -7,4 +7,4 @@ Entonces, son tipos compuestos (pueden tener varios valores) y tienen sus propia
 
 * Tad Pila
     * Valores: Secuencias de elementos
-    * Operaciones: Push, Pop, Tope, vacía, llena
+    * Operaciones: Apilar, desapilar, tope, vacía, llena

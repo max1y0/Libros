@@ -18,4 +18,4 @@ En programación también hay tipos de datos compuestos. Tipos que permiten más
 
 <!-- TODO: Tablita con datos compuestos y operaciones -->
 
-Gracias a que en el paradigma orientado a objetos podemos hacer clases con sus propias operaciones y valores, podemos generar nuestros propios tipos compuestos de datos, o programar algunos de los más comunes. A los tipos compuestos programados programados por nosotros se les llaman:
+Gracias a que en el paradigma orientado a objetos podemos hacer clases con sus propias operaciones y valores, podemos generar nuestros propios tipos compuestos de datos, o programar algunos de los más comunes. A los tipos compuestos programados programados por nosotros se les llaman: [Tipos Abstracto de Datos](./intro.md)

@@ -1,47 +1,36 @@
 # Pilas en Python
-Para usar colas en python tenemos que importar el módulo Queue (cola en inglés). Y las operaciones se traducen como sigue:
+En python no hay una implementación de pilas, para poder usarlas se pueden usar listas y usar las operaciones de lista de forma que respete las operaciones de pilas, o usar ```LifoQueue```. Usando la ```LifoQueue``` las operaciones se traducen como sigue (se agrega una tabla que indica como suelen ser las operaciones de pilas en otros lenguajes de programación):
 <!-- TODO: armar la tabla comparativa -->
-Encolar(x)
-put(x)
-Desencolar()
-Consultar() 
-get()
-Get funciona como un desencolar y consultar al mismo tiempo. Nos retorna el valor que sigue de la cola y automáticamente lo elimina.
-Vacía()
-empty()
-Llena()
-full()
+|Pseudocodigo | Python | Operaciones en general |
+|---|---|---|
+|Aplilar(x)|put(x)|push(x)|
+|Desapilar()|get()|pop()|
+|tope()|get()|top()|
+|Vacía()|empty()|empty()|
+|Llena()|full()|full()|
 
+_Get funciona como un desencolar y consultar al mismo tiempo. Nos retorna el valor que sigue de la cola y automáticamente lo elimina._
 
-qsize()
-Una función útil en python es indicar que tamaño tiene la cola en tal momento. Si está vacía retorna 0
+```qsize()```
 
+Con ```LifoQueue```, qsize funcione igual que con colas, nos indica el tamaño actual de la pila.
 
+### Ejemplo
 Si traducimos el código anterior a python tenemos lo siguiente:
-<!-- TODO: armar la tabla comparativa o directamente poner el codigo traducido (con un link al codigo anterior?) -->
 
-Q = cola(4)
+```py
+from queue import LifoQueue
+S = LifoQueue (maxsize = 4)
 
-print(Q.vacia())
-Q.encolar(2)
-Q.encolar(3)
+print(S.qsize())
+S.put(2)
+S.put(3)
 
-x = Q.consultar()
-print(x)
-Q.desencolar()
-print(Q.llena())
-from queue import Queue
-Q = Queue(maxsize = 4)
-
-print(Q.empty())
-Q.put(2)
-Q.put(3)
-
-x = Q.get()
+x = S.get()
 print (x)
 
-print(Q.full())
+print(S.full())
+```
 
 
 
-Notar que no se hace un “desencolar” porque en python no es necesario

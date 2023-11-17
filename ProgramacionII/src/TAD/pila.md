@@ -1,5 +1,4 @@
 # Tipo abtracto de dato Pila
-# Tipo abtracto de dato Cola
 > “El primero en entrar es el último en salir”
 > _“first in, last out” FILO_
 
