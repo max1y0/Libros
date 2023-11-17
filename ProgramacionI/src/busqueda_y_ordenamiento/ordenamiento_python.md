@@ -1,0 +1,4 @@
+# Ordenamiento en python
+En python podemos usar la función predefinida ```sort()``` para ordenar listas. Para ordenarlas usa una versión mejorada del método de inserción que se llama Timsort. Timsort es una combinación híbrida del algoritmo de inserción y uno que se llama  merge sort, diseñado para aprovechar las características de orden parcial que pueden encontrarse en muchos conjuntos de datos del mundo real.
+
+En este caso, en la práctica real, es conveniente utilizar el método predefinido ```sort```, salvo que querramos que sí o sí nuestra secuencia se ordene con cierto método en particular.
