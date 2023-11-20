@@ -178,7 +178,7 @@ h6:target::before {
 }
 
 .content h3 .header:link {
-    background-color: #FF7369;
+    background-color: #529CCA;
     color: var(--bg);
 }
 

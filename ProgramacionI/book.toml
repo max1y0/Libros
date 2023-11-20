@@ -8,3 +8,4 @@ description = "Apunte acompañamiento de el espacio curricular Programacion I."
 
 [output.html]
 theme = "mytheme"
+default-theme = "maxi"

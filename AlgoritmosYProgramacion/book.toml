@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 title = "Algoritmos y Programación"
 description = "Apunte acompañamiento de el espacio curricular Algoritmos y Programación."
+
+[output.html]
+theme = "mytheme"
+default-theme = "maxi"
