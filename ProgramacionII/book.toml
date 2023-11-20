@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 title = "Programacion II"
 description = "Apunte acompañamiento de el espacio curricular Programacion II."
+
+[output.html]
+theme = "mytheme"
+default-theme = "maxi"
