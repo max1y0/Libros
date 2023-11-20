@@ -5,3 +5,6 @@ multilingual = false
 src = "src"
 title = "Programacion I"
 description = "Apunte acompañamiento de el espacio curricular Programacion I."
+
+[output.html]
+theme = "mytheme"

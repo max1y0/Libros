@@ -1,0 +1,6 @@
+[book]
+authors = ["Maxi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "temp"
