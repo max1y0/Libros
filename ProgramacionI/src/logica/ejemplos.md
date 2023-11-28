@@ -6,7 +6,7 @@
 >
 > Al volver, el robot volvió con tres tiras de pan. Por que?
 
-<!-- TODO: quiza analizar alguno -->
+
 Algunos ejemplos de proposiciones lógicas pueden ser las siguientes
 
 * Soy de 3ro ```Y``` voy a ProA

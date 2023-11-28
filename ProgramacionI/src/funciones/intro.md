@@ -53,10 +53,4 @@ Si en más de una ocasión en nuestro programa tenemos que repetir el mismo set 
 
 Una vez que tenemos una función en un programa podemos reutilizarla en otro sin necesidad de volver a escribirla. De la misma manera podemos compartirlas con otros programadores.
 
-<!-- TODO: posible subseccion? -->
-## Parametros 
-Una función puede ser definida con parámetros. Los parámetros pueden pensarse como variables que van a tener distinto valor con cada invocación.
-Nuestra función nube tiene dos parámetros para posición horizontal y vertical. Y dibujamos nuestros círculos según estos dos parámetros.
-Al invocar, primero invocamos con 120 y 90. Así que posH pasa a tener 120 y posV 90. Entonces la nube se dibuja en esa ubicación.
-En la segunda invocación los parámetros son otros (50 y 200), entonces se dibuja una segunda nube en esta nueva posición.
 
