@@ -14,8 +14,8 @@ persona2.nombre = "Lucia"
 persona2.apellido = "Rodriguez"
 persona2.anio_nac = 2010
 
-esMayor (persona1, persona2)
-familia (persona1,persona2)
+esMayor(persona1, persona2)
+familia(persona1,persona2)
 ```
 
 En este caso las funciones escribirían

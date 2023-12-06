@@ -58,4 +58,4 @@ Por último, se desapila el 3 y se imprime el resultado de la operación llena, 
 En el gráfico muestro paso a paso cómo fue cambiando la cola.
 <!-- TODO:  insertar imagen acá al final o en el medio de cada paso arriba-->
 
-[0,0,0,0] -> [0,0,0,2] -> [0,0,3,2] -> [0,0,0,3]
+![cola_estados](../images/cola_estados.png)

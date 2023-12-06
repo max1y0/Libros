@@ -6,4 +6,5 @@ El TAD cola maneja secuencias de datos inspirándose en el funcionamiento de las
 
 En informática las colas se dibujan desde abajo hacia arriba:
 <!-- TODO: agregar imagen -->
+![cola_intro](../images/cola_intro.png)
 Ejemplo de una cola de números enteros

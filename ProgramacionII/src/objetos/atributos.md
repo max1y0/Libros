@@ -14,6 +14,6 @@ persona = {
 
 El nombre del objeto, puede ser cualquiera, la idea es que tenga que ver con lo que estamos intentando modelar, en este caso una persona. La cantidad y nombres de atributos puede ser la que consideremos, no hay límite. Es más, un atributo puede incluso ser un arreglo, u otro objeto “más chico”.
 
-Lo importante cuando diseñemos objetos es que evitemos rellenar un objeto con atributo que no tienen sentido dentro de ese objeto. Es decir, no tendría sentido que dentro de mi objeto persona haya atributos como ```cantidadDeRuedas``` o ```tamañoDeVentana```.
+Lo importante cuando diseñemos objetos es que evitemos rellenar un objeto con atributo que no tienen sentido dentro de ese objeto. Es decir, no tendría sentido que dentro de mi objeto ```persona``` haya atributos como ```cantidadDeRuedas``` o ```tamañoDeVentana```.
 
 La idea es que nos sirva para modelar cosas que existen en la vida real o que tiene sentido que estén agrupadas.

@@ -24,3 +24,25 @@ alumno1.anio_ingreso = 2019
 ```python
 alumno1 = Alumno ("Lucas","Russo",46464646,2019)
 ```
+
+## Código final
+La clase ```Persona``` quedaría de esta forma con todo lo visto:
+```python
+clase Persona:
+  nombre
+  edad
+  dni
+
+  metodo constructor (nombre, apellido, dni, anio_ingreso):
+    propio.nombre = nombre
+    propio.apellido = apellido
+    propio.dni = dni
+    propio.anio_ingreso = anio_ingreso
+
+  metodo decirDatos (propio):
+    escribir (“nombre: ”+ propio.nombre + propio.apellido)
+    escribir (“dni: ” + propio.dni)
+    
+  metodo añoNacimiento (propio, añoActual):
+    escribir(añoActual - propio.edad)
+```

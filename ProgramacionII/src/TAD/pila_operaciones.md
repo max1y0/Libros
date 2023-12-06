@@ -53,6 +53,4 @@ print(S.llena())
 Por último, se desapila el 3 y se imprime el resultado de la operación llena, que es falso
 
 En el gráfico muestro paso a paso cómo fue cambiando la cola.
-<!-- TODO:  insertar imagen -->
-
-[0,0,0,0] -> [0,0,0,2] -> [0,0,3,2] -> [0,0,0,2]
+![pila_estados](../images/pila_estados.png)

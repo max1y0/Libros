@@ -4,3 +4,7 @@ Como sabemos ahora, podemos hacer múltiples variables que sean de la misma clas
 NOTA: Estos no son métodos, no los escribiríamos dentro de la clase, sino que son funciones sueltas que podemos usar en nuestro algoritmo principal.
 
 Miremos los ejemplos:
+
+[Ejemplo 1](./ejemplo1.md)
+
+[Ejemplo 2](./ejemplo2.md)

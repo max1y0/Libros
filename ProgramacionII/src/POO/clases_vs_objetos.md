@@ -27,7 +27,7 @@ persona500 = {
 
 ### Misma idea con clases
 ```python
-class Persona :
+clase Persona :
   nombre
   edad
   dni
@@ -36,11 +36,11 @@ persona1 = Persona ("martin",46,26700808)
 persona2 = Persona ("agus",26,46700808)
 persona3 = Persona ("lore",32,34700808)
 ```
-## Clases vs Objetos
+## Clases vs Objetos: Ejemplo práctico
 La clase espada
 
-![Espada clase](images/swordClass.jpg)
+![Espada clase](../images/swordClass.jpg)
 
 Los objetos: espada de madera, de piedra, de hierro, de oro y de diamante.
 
-![Espada objetos](images/sword.png)
+![Espada objetos](../images/sword.png)

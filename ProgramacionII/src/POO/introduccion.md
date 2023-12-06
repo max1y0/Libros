@@ -1,4 +1,5 @@
-# Introducción
+# Programación Orientada a Objetos
+## Introducción
 
 La programación orientada a objetos es un nuevo paradigma de programación, que divide la funcionalidad del programa en sí, y las estructuras que se usan en él. 
 

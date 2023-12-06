@@ -7,7 +7,7 @@ class Persona:
           self.apellido = apellido
           self.edad = edad
 ```
-Notar que en python es necesario agregar ```self``` (lo que en pseudocodigo era propio, en los paréntesis). Si además tiene los métodos ```decirNombre``` y ```decirEdad```, tenemos que escribir “funciones” que resuelvan lo que hace el método y programarlo dentro del archivo. Resultando en esto:
+Notar que en python es necesario agregar ```self``` (lo que en pseudocodigo era ```propio```, en los paréntesis). Si además tiene los métodos ```decirNombre``` y ```decirEdad```, tenemos que escribir “funciones” que resuelvan lo que hace el método y programarlo dentro del archivo. Resultando en esto:
 ```python 
 class Persona:
 	def __init__ (self,nombre,apellido,edad):

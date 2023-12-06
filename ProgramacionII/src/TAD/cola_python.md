@@ -1,6 +1,7 @@
 # Colas en Python
+<!-- NO SE USA -->
+
 Para usar colas en python tenemos que importar el módulo Queue (cola en inglés). Y las operaciones se traducen como sigue:
-<!-- TODO: armar la tabla comparativa -->
 |Pseudocodigo | Python |
 |---|---|
 |Encolar(x)|put(x)|
@@ -16,8 +17,7 @@ _Get funciona como un desencolar y consultar al mismo tiempo. Nos retorna el val
 Una función útil en python es indicar que tamaño tiene la cola en tal momento. Si está vacía retorna 0
 
 
-Si traducimos el código anterior a python tenemos lo siguiente:
-<!-- TODO: armar la tabla comparativa o directamente poner el codigo traducido (con un link al codigo anterior?) -->
+Si traducimos el [código anterior](cola_operaciones.html#ejemplo) a python tenemos lo siguiente:
 ```py
 Q = Queue(maxsize = 4)
 
