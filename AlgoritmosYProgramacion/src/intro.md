@@ -27,7 +27,7 @@ En esta etapa pensamos qué vamos a programar, cual es el objetivo final de nues
 
 Cuando ya tenemos bien claro el objetivo, analizamos qué técnicas y elementos van a ser necesarios para llevarla a cabo. 
 
-## Implementeción y testeo
+## Implementación y testeo
 Luego de este análisis, ya tenemos un diseño básico de qué hay que realizar en nuestro algoritmo. Así que el paso siguiente es:
 
 * Realizar el algoritmo
