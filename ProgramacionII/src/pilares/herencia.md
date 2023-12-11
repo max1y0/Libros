@@ -5,3 +5,8 @@ La que recibe las características se le llama clase hija, mientras que la otra 
 ### Ejemplos:
 * En minecraft, la espada, hacha, pico, etc, heredan de una clase padre que se llama “herramienta”
 <!-- TODO: agregar ejemplo de la presentacion -->
+* Podriamos hacer otros tipos de libros para nuestra biblioteca:
+    * revista
+    * comic, etc
+    
+    Todas funcionando igual pero con algunos detalles modificados 

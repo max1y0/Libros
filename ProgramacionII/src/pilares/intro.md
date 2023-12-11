@@ -1,0 +1,2 @@
+# Los Cuatro pilares de la Programación Orientada a Objetos
+La Programación Orientada a Objetos (POO) se erige sobre cuatro pilares fundamentales que estructuran la forma en que desarrollamos software. Estos pilares, encapsulamiento, abstracción, herencia y polimorfismo, son los cimientos sobre los cuales construimos sistemas complejos de software. Cada uno de estos conceptos aporta una perspectiva única y esencial para organizar, modularizar y gestionar el código. 

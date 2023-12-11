@@ -1,5 +1,5 @@
 # Summary
-
+- [Introducción](./intro.md)
 # Objetos
 - [Objetos](./objetos/introduccion.md)
   - [Atributos](./objetos/atributos.md)
@@ -35,7 +35,7 @@
   <!-- - [Pilas en Python](./TAD/pila_python.md) eliminado porque decidi implementarlas en clase -->
 
 # Cuatro pilares de la Programación Orientada a Objetos
-- [Los Cuatro pilares de la Programación Orientada a Objetos](./intro.md)
+- [Los Cuatro pilares de la Programación Orientada a Objetos](./pilares/intro.md)
   - [Abstraccion](./pilares/abstraccion.md)
   - [Encapsulamiento](./pilares/encapsulamiento.md)
   - [Herencia](./pilares/herencia.md)

@@ -5,8 +5,14 @@ Abstraer algo es esconder los detalles de la implementación, pero permitiendo d
 ### Ejemplos:
 
 Microondas:
+
 |Con abstracción | Sin abstracción|
 |---|---|
-|Botón calentar comida| Botones para: prender luces, girar plato, setear microondas en frecuencias según potencia, iniciar temporizador... |
- <!-- TODO: agregar el ejemplo que puse en la presentación -->
+|Botón calentar comida | Botones para: prender luces, girar plato, setear microondas en frecuencias según potencia, iniciar temporizador,... |
+
+Pilas:
+
+|Con abstracción | Sin abstracción|
+|---|---|
+|método apilar ```push(x)```| ```self.lista.append(x)```|
 
