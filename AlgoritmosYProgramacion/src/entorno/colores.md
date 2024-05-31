@@ -17,8 +17,11 @@ stroke
 ```
 Pinta el contorno de las figuras.
 
-Todas esas instrucciones reciben 1 o 3 parámetros. Si la usamos con un sólo parámetro, se asume que se esta coloreando en escala de grises.
-<!-- TODO: foto escala de grises -->
+## De qué color?
+
+Todas estas instrucciones reciben 1 o 3 parámetros. Si la usamos con un sólo parámetro, se asume que se esta coloreando en escala de grises.
+
+![color_gris](../images/grises.png)
 
 ```js
 background(120)
@@ -27,7 +30,7 @@ _Pintaría el fondo de un color gris oscuro_
 
 Cuando usamos 3 parámetros, se pinta en colores usando el primer número como el valor de rojo, el segundo como el valor de verde y el último como el valor de azul.
 
-<!-- TODO: agregar foto rgb -->
+![color_rgb](../images/rgb.png)
 
 ```js
 fill(240,240,60)

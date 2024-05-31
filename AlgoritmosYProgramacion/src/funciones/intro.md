@@ -1,13 +1,19 @@
 # Funciones
 Las funciones son estructuras de código que permiten **modularizar** nuestro código. Es decir, se subdivide un problema en varios subproblemas, y cada subproblema se encararía mediante una función.
-<!-- TODO: agregar las imagenes de ayp(la presentacion de apuntes) y funciones -->
+
+![funcion_intro](../images/funcion.png)
+
 Las funciones pueden pensarse de forma coloquial como un "coso" que recibe información, la computa, y retorna un sólo resultado. 
 
 En nuestro caso, vamos a usar las funciones de dos formas:
 
-1. Vamos a aprovechar funciones que ya existen para mejorar nuestros dibujos y animaciones. Por ejemplo, existen funciones que nos dan un número al azar entre un rango, podemos usar eso para dibujar dados, cartas de uno, simulaciones y animaciones que necesiten azar, etc.
+1. **Predefinidas** 
 
-2. Vamos a escribir funciones para agregar nuevas instrucciones de dibujo. Por ejemplo, podríamos querer que al escribir ```luna()``` dibuje una luna en la pantalla. La función ```luna()``` no existe en p5js, pero la podemos agregar nosotros escribiendo una función.
+Vamos a aprovechar funciones que ya existen para mejorar nuestros dibujos y animaciones. Por ejemplo, existen funciones que nos dan un número al azar entre un rango, podemos usar eso para dibujar dados, cartas de uno, simulaciones y animaciones que necesiten azar, etc.
+
+2. **Creadas por nosotros**
+
+Vamos a escribir funciones para agregar nuevas instrucciones de dibujo. Por ejemplo, podríamos querer que al escribir ```luna()``` dibuje una luna en la pantalla. La función ```luna()``` no existe en p5js, pero la podemos agregar nosotros escribiendo una función.
 
 ## Utilidad
 La utilidad de las funciones se ve resumida en tres características:
