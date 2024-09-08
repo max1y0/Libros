@@ -1,0 +1,14 @@
+[preprocessor.chapter-zero]
+levels = [0]
+marker = "<!-- ch0 -->\n"
+
+[book]
+authors = ["Profesor Maximiliano Chaves"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Programación Creativa con p5js"
+
+[output.html]
+theme = "mytheme"
+default-theme = "maxi"
