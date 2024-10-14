@@ -1,7 +1,9 @@
 # Summary
 
 - [Introducción](./intro.md)
-- [Git](./git/intro.md)
+- [Software de Control de Versiones](./git/intro.md)
+  - [Git](./git/git.md)
+  - [GitHub](./git/github.md)
 - [Repaso](./repaso/intro.md)
     - [Interfaces y HTML](./repaso/interfaces.md)
     - [Programación Orientada a Objetos](./repaso/POO.md)
