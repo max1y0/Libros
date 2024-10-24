@@ -1,0 +1,7 @@
+# Aplicaciones Web
+
+Las aplicaciones web son programas que se ejecutan en servidores y se acceden a través de navegadores de internet. A diferencia de las aplicaciones tradicionales que deben instalarse en el dispositivo del usuario, las aplicaciones web permiten la interacción en tiempo real sin necesidad de instalaciones, facilitando el acceso a información y servicios desde cualquier dispositivo con conexión a internet.
+
+Estas aplicaciones combinan tecnologías como HTML, CSS y JavaScript para el desarrollo del lado del cliente, mientras que en el lado del servidor emplean lenguajes y frameworks como PHP, Python o Node.js. Algunas de las ventajas más importantes de las aplicaciones web son su fácil distribución, el acceso multiplataforma y su capacidad para actualizarse de manera rápida y eficiente.
+
+Las aplicaciones web se basan en una interacción continua entre el cliente web (el navegador del usuario) y el servidor de internet. El cliente envía solicitudes a través de la red (por ejemplo, cuando un usuario accede a una página o realiza una acción en la aplicación), y el servidor responde procesando la solicitud y enviando de vuelta los datos requeridos, como páginas HTML, imágenes o resultados de formularios. Esta comunicación sigue el modelo cliente-servidor, utilizando protocolos como HTTP/HTTPS para intercambiar información. Esta arquitectura permite que las aplicaciones web sean dinámicas y respondan en tiempo real a las interacciones del usuario, sin necesidad de descargar ni instalar software adicional en el dispositivo.

@@ -1,6 +1,6 @@
 # Model View Controller
 
-El Modelo Vista Controlador (MVC)es un patrón de arquitectura de software, que separa los datos, la lógica y la presentación. MVC divide en tres componentes: el modelo, la vista y el controlador.
+El Modelo Vista Controlador (MVC) es un patrón de arquitectura de software, que separa los datos, la lógica y la presentación. MVC divide en tres componentes: el modelo, la vista y el controlador.
 
 ### Modelo
 Es la representación de la información del sistema. Normalmente está relacionado con la base de datos de nuestra aplicación. Desde el **controlador** se envía la petición de acceso o modificación de información. El modelo envía a la **vista** aquella información que sea solicitada para ser mostrada.
