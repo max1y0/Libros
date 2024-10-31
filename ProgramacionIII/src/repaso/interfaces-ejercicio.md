@@ -12,3 +12,40 @@ Para la presentación de la página vamos a necesitar:
 3. __Un layout elegante:__ El layout define como se va a organizar la página en el espacio. Es importante que no se sienta sobrecargada, anticuada, o poco profesional.
 
 <!-- TODO: agregar paso a paso de la actividad?. -->
+## HTML
+Un posible código para la estructura de nuestra página podría ser el siguiente
+```html
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+
+    <body>
+        <div class="tarjeta">
+            <h1 class="titulo">Chaves Maximiliano</h1>
+            <h3 class="subtitulo">Profesor en Ciencias de la Computación</h3>
+            <img class="perfil" src="profile.png" />
+
+            <p class="descripcion">
+                Referente (ojalá) de la programación creativa. Docente
+                programación de nivel medio. Hace videos en youtube cada eclipse
+                solar. Neurodivergente. Si tiene tiempo juega jueguitos. No
+                suele pasar seguido.
+            </p>
+
+            <div class="links">
+                <a href="www.instagram.com/maxi_chvs">Instagram</a>
+                <a href="www.github.com/max1y0">Github</a>
+                <a href="mailto:maximiliano.e.chaves@gmail.com">Mail</a>
+            </div>
+        </div>
+    </body>
+</html>
+```
+
+## CSS
+Para el estilo defino mi paleta de colores como:
+<!-- Buscar como poner hex colors -->
+El estilo lo voy a acomodar en una tarjeta de color blanco que esté al centro de la pantalla. La imagen que esté en formato circular encima de la tarjeta, y la información dentro de la misma. De color de fondo voy a usar un gradiente suave de los colores elegidos de mi paleta.
+<!-- Agregar el css -->
