@@ -1,14 +1,14 @@
 # Instrucciones
 Las instrucciones de p5 nos van a permitir dibujar cosas en el lienzo, indicando qué dibujar y algunos parámetros. Los parámetros son información que agregamos a una instrucción para indicar por ejemplo, tamaño, posición, color, etc.
 
-<!-- TODO: imagen instrucciones -->
+![instrucciones](../images/instrucciones.png)
 
 ## rect
 Para dibujar un rectángulo, necesitamos especificar cuatro datos. Las coordenadas X e Y de la esquina superior izquierda de un rectángulo. Luego necesitamos indicar el ancho y por último el alto. Es decir:
 ```
-origen: 
+origen:
     x=7
-    y=4 
+    y=4
 ancho: 9
 alto: 11
 ```
