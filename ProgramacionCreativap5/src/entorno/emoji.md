@@ -1,23 +1,23 @@
 # Proyecto Emoji
-
+En este proyecto vamos a empezar a conocer el entorno de p5js programando una carita simple. Para esto vamos a usar las instrucciones para dibujar rectángulos y elipses.
 ### Contenidos y Aprendizajes
 Sintaxis javascript y p5, estructura general de algoritmo de processing, instrucciones primitivas de dibujos de rectángulos, elipses (ellipse, rect).
 
-| Etapas | Actividades | 
-| :---- | :---- | 
-| Etapa 1 | Introducción al entorno de p5js, primeras instrucciones de dibujo. | 
-| Etapa 2 | Uso de la instrucción rect y ellipse para dibujar una carita sencilla. | 
+| Etapas | Actividades |
+| :---- | :---- |
+| Etapa 1 | Introducción al entorno de p5js, primeras instrucciones de dibujo. |
+| Etapa 2 | Uso de la instrucción rect y ellipse para dibujar una carita sencilla. |
 
 
 ## Etapa 1: Intrucciones de dibujo
-Las instrucciones de p5 nos van a permitir dibujar cosas en el lienzo, indicando qué dibujar y algunos parámetros. Los parámetros son información que agregamos a una instrucción para indicar por ejemplo, tamaño, posición, color, etc.
+Las instrucciones de p5 nos van a permitir dibujar cosas en el lienzo, cada instrucción indica qué dibujar y algunos parámetros describen cómo se dibuja. Los parámetros son información que agregamos a una instrucción para indicar, por ejemplo, tamaño, posición, color, etc.
 
 ### rect
-Para dibujar un rectángulo, necesitamos especificar cuatro datos. Las coordenadas X e Y de la esquina superior izquierda de un rectángulo. Luego necesitamos indicar el ancho y por último el alto. Es decir:
+Para dibujar un rectángulo, necesitamos especificar cuatro parámetros. Los primeros dos indican las coordenadas X e Y de la esquina superior izquierda de un rectángulo. Luego necesitamos indicar el ancho y por último el alto. Es decir:
 ```
-origen: 
+origen:
     x=7
-    y=4 
+    y=4
 ancho: 9
 alto: 11
 ```

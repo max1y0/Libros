@@ -3,7 +3,7 @@
 - [Introducción](./intro.md)
 - [P5js Y Algorítmica](./entorno/intro.md) <!-- Nombre a redefinir -->
   - [Emoji](./entorno/emoji.md)
-  - [Tarjeta de Crédito](./entorno/tarjeta-credito.md)
+  - [Tarjeta de Identificación](./entorno/tarjeta-credito.md)
 - [Variables](./variables/intro.md)
   - [Cronómetro](./variables/cronometro.md)
   - [Deformando un cuadrado](./variables/deformando-cuadrado.md)
