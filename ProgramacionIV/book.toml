@@ -1,0 +1,11 @@
+[book]
+authors = ["Profesor Maximiliano Chaves"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Programacion IV"
+description = "Apunte acompañamiento de el espacio curricular Programacion IV."
+
+[output.html]
+theme = "mytheme"
+default-theme = "maxi"
