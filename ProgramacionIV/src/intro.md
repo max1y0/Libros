@@ -21,16 +21,15 @@ En el apunte del cursillo de ingreso de programación, definen programación de 
 > Un procesador es la entidad responsable de ejecutar acciones primitivas. Una acción es primitiva
 si el enunciado de dicha acción es suficiente para poder ejecutarla sin información suplementaria.
 
-definición de implementacoin
+### Definición de Implementación
 
-Implementar consiste en traducir el algoritmo a un lenguaje de
-programación de alto nivel
+Implementar consiste en traducir el algoritmo a un lenguaje de programación de alto nivel. Cuando escribimos el texto de un programa en un lenguaje éste debe ser convertido al lenguaje de máquina, es decir a las instrucciones concretas del tipo de computadora que usemos.
 
-    Cuando escribimos el texto de un programa en un lenguaje éste debe ser convertido al lenguaje de máquina, es decir a las instrucciones concretas del tipo de computadora que usemos.
+Esta conversión o traducción se hace con otros programas específicos a cada lenguaje. Estos programas se conocen como compiladores o intérpretes.
 
-    Esta conversión o traducción se hace con otros programas específicos a cada lenguaje. Estos programas se conocen como compiladores o intérpretes.
+Python por ejemplo, es un lenguaje interpretado.
 
-Abstracción (cursillo)
+## Abstracción
 
 La tarea de abstraer un problema, concepto o sistema consiste en descartar detalles y extraer los aspectos mas importantes para su análisis.
 

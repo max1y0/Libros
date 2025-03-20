@@ -1,9 +1,9 @@
 # Summary
 
 - [Introducción](./intro.md)
-- [Estructura Secuencial](./secuencial/teoria.md)
+- [Estructura Secuencial](./secuencial/teoria1.md)
   - [Guia 1](./secuencial/guia1.md)
-- [Estructura Condicional](./condicional/teoria.md)
+- [Estructura Condicional](./condicional/teoria2.md)
   - [Guia 2](./condicional/guia2.md)
 - [Estructura Repetitiva](./repetitiva/teoria.md)
   - [Guia 3](./repetitiva/guia3.md)
