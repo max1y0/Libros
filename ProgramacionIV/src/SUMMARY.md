@@ -5,7 +5,7 @@
   - [Guia 1](./secuencial/guia1.md)
 - [Estructura Condicional](./condicional/teoria2.md)
   - [Guia 2](./condicional/guia2.md)
-- [Estructura Repetitiva](./repetitiva/teoria.md)
+- [Estructura Repetitiva](./repetitiva/teoria3.md)
   - [Guia 3](./repetitiva/guia3.md)
 - [Modularización](./funciones/teoria.md)
   - [Guia 4](./funciones/guia4.md)
